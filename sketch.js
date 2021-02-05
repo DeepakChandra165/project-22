@@ -53,7 +53,7 @@ function keyPressed() {
 	}
 
 	if (keyCode === LEFT_ARROW){
-		fairy.position.x = fairy.position.x + 10;
+		fairy.position.x = fairy.position.x + - 10;
 	}
 
 	
